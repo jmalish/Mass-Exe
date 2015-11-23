@@ -1,0 +1,2 @@
+C:\Users\Digital Press\AppData\Local\Temporary Projects\Mass Exe\bin\Debug\Mass Exe.exe.config
+E:\myProjects\Mass Exe\Mass Exe\Mass Exe\bin\Debug\Mass Exe.exe.config
